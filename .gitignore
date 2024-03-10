@@ -1,0 +1,28 @@
+# Virtual environment
+
+venv/
+
+# Python bytecode
+
+**pycache**/
+
+# Jupyter Notebook temporary files
+
+.ipynb_checkpoints/
+
+# Compiled Python files
+
+_.pyc
+_.pyo
+\*.pyd
+
+# YOLOv8 generated files
+
+runs/
+results/
+weights/
+wandb/
+
+# Visual Studio Code specific files
+
+.vscode/
